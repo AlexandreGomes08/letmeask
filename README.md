@@ -5,7 +5,7 @@
 
 ## Sobre
 
-É um fórum de perguntas e respostas voltado para área de desenvolvimento
+É um fórum de perguntas e respostas voltado para área de desenvolvimento, possuindo um banco de dados em tempo real chamado Firebase.
 
 ## Tecnologias
 
