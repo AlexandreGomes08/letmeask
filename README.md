@@ -1,6 +1,5 @@
-<h1 align="center">  
-  
-    <p style="font-size:2rem; margin-top:1rem; font-weight:normal;">Letmeask</p>
+<h1 align="center">   
+    <p style="font-size:2rem; margin-top:1rem; font-weight:normal;">Letmeask</p><br>
     <p style="font-size:1rem; margin-top:1rem; font-weight:normal;">Sistema de Perguntas e Respostas</p>
 </h1>
 
