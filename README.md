@@ -24,3 +24,7 @@
     # Instale as dependências
     $  npm install --global yarn
 ```
+
+## Telas
+## Tela inicial do sistema 
+<img src="./frontend_ClickSalas/src/assets/images/tela1.png" style="height:18rem;" /> 
