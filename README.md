@@ -10,7 +10,7 @@
 ## Tecnologias
 
 <div style="display:flex; flex-direction: row;">
-    <img src="" style="height:2rem;" />
+    <img src="./src/assets/images/react-original.svg" style="height:2rem;" />
 </div>
 
 ## Como utilizar
