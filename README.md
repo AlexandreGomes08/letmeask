@@ -1,5 +1,5 @@
 <h1 align="center">   
-    <p style="font-size:2rem; margin-top:1rem; font-weight:normal;">Letmeask</p>
+    <img src="./src/assets/images/logo.svg" style="height:6rem;" />
     <p style="font-size:1rem; margin-top:1rem; font-weight:normal;">Sistema de Perguntas e Respostas</p>
 </h1>
 
@@ -24,3 +24,7 @@
     # Instale as dependências
     $  npm install --global yarn
 ```
+
+## Telas
+## Tela inicial do sistema 
+<img src="./src/assets/images/tela1.png" style="height:18rem;" /> 
