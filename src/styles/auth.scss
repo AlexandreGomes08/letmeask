@@ -91,13 +91,18 @@
         }
     }
 
-    .create-room {
+    a {
+        text-decoration: none;
+    }
+
+    .create-room{
         margin-top: 64px;
         height: 50px;
         border-radius: 8px;
         font-weight: 500;
         background: #ea4335;
         color: #fff;
+        text-decoration: none;
 
         display: flex;
         justify-content: center;
